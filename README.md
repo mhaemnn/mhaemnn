@@ -11,8 +11,7 @@ Aku adalah mahasiswa teknik informatika disalah satu kampus swasta di kota malan
 <a href="https://www.instagram.com/_tseei/">
   <img align="left" alt="_tse Instagram" width="22px"  src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://twitter.com/Mhaemnn">
-  <img align="left" alt="who am I | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+
 </a>
 <a href="https://www.linkedin.com/in/muhaemin-iskandar-558b0322b/">
   <img align="left" alt="Muhaemin Iskandar" width="22px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
