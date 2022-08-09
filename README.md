@@ -18,7 +18,7 @@ Aku adalah mahasiswa teknik informatika disalah satu kampus swasta di kota malan
 </a>
 
 <br/>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
   
 - 💼 ada pekerjaan freelance? hubungi saya, [Email](mailto:ismuhaimin1@gmail.com) :)
 - 💬 bertanya kepada saya tentang apa pun, saya senang membantu;
