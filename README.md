@@ -1,6 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Muhaemin</h1>
-<h3 align="center">A passionate backend developer from Indonesia 🇮🇩</h3>
+<h2>Hai Semuanya👋</h2>
+
+<h3>Saya Muhaemin</h3>
+
+Aku adalah mahasiswa teknik informatika disalah satu kampus swasta di kota malang, dan saya sangat tertarik dengan dunia IT dan untuk sekarang saya lebih mempokuskan di bagian Back End Developer. Selain itu saya juga pengguna Open Source (Linux). Dan pas dibangku SMK saya menggambil jurusan Teknik Komputer Jaringan.
 
 <a href="https://codepen.io/Mhaemn" target="blank">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mhaemnn"  width="22px" />
@@ -15,30 +18,22 @@
   <img align="left" alt="Muhaemin Iskandar" width="22px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badges.glitch.me?username=Mhaemnn&repo=Mhaemnn&label=visitor&style=flat-square&color=%23213FFF&token=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)
-
-<br />
-
-I am a self-taught backend who is passionate about learning Informatics Engineering from Indonesia. my passion for backend lies in dreaming ideas and making them happen with an elegant interface. I take great care in the experience, architecture and code quality of the things I build.
-
-I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
+<br/>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [Email](mailto:ismuhaimin1@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 ada pekerjaan freelance? hubungi saya, [Email](mailto:ismuhaimin1@gmail.com) :)
+- 💬 bertanya kepada saya tentang apa pun, saya senang membantu;
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> </p>
+<h3 align="left">Keahlian:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> </p>
 
-📊 **this week i spent my time on:**
+📊 **minggu ini saya menghabiskan waktu untuk**
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   3 hrs 27 mins   ████████████████████████░   95.58 %
-Bash         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript   3 hrs 27 mins   ██████████████████████░   95.58 %
+Bash         9 mins          █████░░░░░░░░░░░░░░░░░░   30.41 %
+Other        0 secs          ████░░░░░░░░░░░░░░░░░░░   20.01 %
 ```
 
 <!--END_SECTION:waka-->
