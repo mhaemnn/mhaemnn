@@ -1,7 +1,5 @@
 
-<h2>Hai Semuanya👋</h2>
-
-<h3>Saya Muhaemin</h3>
+<h3>Hai Semuanya👋</h3>
 
 Hey! I'm muhaemin. Coding has changed my world. It's not just about apps. Learning to code gave me problem-solving skills and a way to communicate with others on a technical level. I can also develop websites and use my coding skills to get a better job. And I learned it all at SoloLearn and w3schools where they build your self-esteem and keep you motivated. Join me in this rewarding journey. You'll have fun, get help, and learn along the way!
 
@@ -20,13 +18,13 @@ Hey! I'm muhaemin. Coding has changed my world. It's not just about apps. Learni
 <br/>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="315" />
   
-- 💼 ada pekerjaan freelance? hubungi saya, [Email](mailto:ismuhaimin1@gmail.com) :)
-- 💬 bertanya kepada saya tentang apa pun, saya senang membantu;
-
+- 💼 any freelance work? Contact me, [Email](mailto:ismuhaimin1@gmail.com) :)
+- 💬 ask me about anything, I'm happy to help;
+- 
 <h3 align="left">Keahlian:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> </p>
 
-📊 **minggu ini saya menghabiskan waktu untuk**
+📊 **this week i spent time to**
 <!--START_SECTION:waka-->
 
 ```text
