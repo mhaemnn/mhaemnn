@@ -3,7 +3,7 @@
 
 <h3>Saya Muhaemin</h3>
 
-Aku adalah mahasiswa teknik informatika disalah satu kampus swasta di kota malang, dan saya sangat tertarik dengan dunia IT dan untuk sekarang saya lebih mempokuskan di bagian Back End Developer. Selain itu saya juga pengguna Open Source (Linux). Dan pas dibangku SMK saya menggambil jurusan Teknik Komputer Jaringan.
+Hey! I'm muhaemin. Coding has changed my world. It's not just about apps. Learning to code gave me problem-solving skills and a way to communicate with others on a technical level. I can also develop websites and use my coding skills to get a better job. And I learned it all at SoloLearn and w3schools where they build your self-esteem and keep you motivated. Join me in this rewarding journey. You'll have fun, get help, and learn along the way!
 
 <a href="https://codepen.io/Mhaemn" target="blank">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mhaemnn"  width="22px" />
