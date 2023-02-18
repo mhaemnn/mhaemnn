@@ -1,10 +1,9 @@
-Hi there 👋
+Halo 👋
 
-I'm Jon and this account is a show case of stuff that I like working on.
+Saya Jon dan akun ini adalah contoh dari hal-hal yang saya suka kerjakan.
 
-- 🔭 I’m currently working on completing a #100DaysOfCoding challenge
-- 🌱 I’m currently learning Svelte, Web Components and CMS animations
-- 💬 Ask me about anything (within reason)
-- 📫 How to reach me: www.jondjones.com
-- 🎁 My offical GitHub: https://github.com/mhaemnn
-
+- 🔭 Saat ini saya sedang menyelesaikan tantangan #100DaysOfCoding
+- 🌱 Saat ini saya sedang mempelajari animasi Svelte, Komponen Web, dan CMS
+- 💬 Tanya saya tentang apa saja (sesuai alasan)
+- 📫 Cara menghubungi saya: www.jondjones.com
+- 🎁 GitHub resmi saya: https://github.com/mhaemnn
