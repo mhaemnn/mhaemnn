@@ -7,4 +7,4 @@ Saya muhaemin dan akun ini adalah contoh dari hal-hal yang saya suka kerjakan.
 - 💬 Tanya saya tentang apa saja (sesuai alasan)
 - 📫 Cara menghubungi saya: ismuhaimin1@gmail.com
 - 🎁 GitHub resmi saya: https://github.com/mhaemnn 
-- jajfkdasjfa df dfdjfdj  
+- jajfkdasjfa df dfdjfdj  fdfdjfjjdfj
