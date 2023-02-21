@@ -1,4 +1,4 @@
-Halo 👋
+Halo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Saya muhaemin dan akun ini adalah contoh dari hal-hal yang saya suka kerjakan.
 - 🔭 Saat ini saya sedang menyelesaikan tantangan #121,667DaysOfCoding
