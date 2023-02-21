@@ -1,5 +1,5 @@
 Halo 👋
-
+[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
 Saya muhaemin dan akun ini adalah contoh dari hal-hal yang saya suka kerjakan.
 
 - 🔭 Saat ini saya sedang menyelesaikan tantangan #121,667DaysOfCoding
