@@ -7,3 +7,9 @@ Saya muhaemin dan akun ini adalah contoh dari hal-hal yang saya suka kerjakan.
 - 📫 Cara menghubungi saya: ismuhaimin1@gmail.com
 - 🎁 GitHub resmi saya: https://github.com/mhaemnn
 
+
+<div id="statistics_github_animation_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
+    <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/generated/github-contribution-grid-snake.svg" alt="GitHub contribution animation" />
+</div>
+
+
