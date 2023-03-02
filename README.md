@@ -6,3 +6,4 @@ Saya muhaemin dan akun ini adalah contoh dari hal-hal yang saya suka kerjakan.
 - 💬 Tanya saya tentang apa saja (sesuai alasan)
 - 📫 Cara menghubungi saya: ismuhaimin1@gmail.com
 - 🎁 GitHub resmi saya: https://github.com/mhaemnn
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techno-tim&repo=k3s-ansible&theme=radical)](https://github.com/techno-tim/k3s-ansible)
