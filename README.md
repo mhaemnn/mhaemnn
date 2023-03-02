@@ -9,3 +9,4 @@ Saya muhaemin dan akun ini adalah contoh dari hal-hal yang saya suka kerjakan.
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techno-tim&repo=k3s-ansible&theme=radical)](https://github.com/techno-tim/k3s-ansible)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techno-tim&repo=k3s-ansible&theme=radical)](https://github.com/techno-tim/k3s-ansible)
