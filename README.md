@@ -7,9 +7,3 @@ Saya muhaemin dan akun ini adalah contoh dari hal-hal yang saya suka kerjakan.
 - 📫 Cara menghubungi saya: [ismuhaimin1{at}gmail.com](mailto:ismuhaimin1@gmail.com)
 - 🎁 GitHub resmi saya: https://github.com/mhaemnn
 
-kdflaf djfkjf k
-dfafk j fjdfd 
-fkdfdf fdjfdf
-fdkfjds kfj
-fdlkfd skf
-kdflf sjf 
