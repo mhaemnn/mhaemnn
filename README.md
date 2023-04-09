@@ -13,4 +13,4 @@ dfhjask fdshk
 jdkafdj fgkfsdg dfdf 
 kenapa harus males belajar ?
 
-console.log("hello apa kabar belajar lagi yuk!")
+console.log
