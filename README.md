@@ -12,4 +12,4 @@ Saya muhaemin dan akun ini adalah contoh dari hal-hal yang saya suka kerjakan.
 jdkafdj 
 kenapa harus males belajar ?
 
-console.log("hello apa kabar belajar lagi yuk!")
+console.log("hello apa kabar belajar lagi yuk!")dfmdaskf j
