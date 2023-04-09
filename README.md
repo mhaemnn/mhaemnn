@@ -11,6 +11,5 @@ Saya muhaemin dan akun ini adalah contoh dari hal-hal yang saya suka kerjakan.
 dfhjask fdshk
 
 jdkafdj fgkfsdg dfdf 
-kenapa harus males belajar 
 
 
