@@ -10,6 +10,6 @@ Saya muhaemin dan akun ini adalah contoh dari hal-hal yang saya suka kerjakan.
 
 dfhjask fdshk
 
-jdkafdj fgkfsdg dfdf 
+jdkafdj fgkfsdg 
 
 
