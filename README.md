@@ -8,8 +8,3 @@ Saya muhaemin dan akun ini adalah contoh dari hal-hal yang saya suka kerjakan.
 - 🎁 GitHub resmi saya: https://github.com/mhaemnn 
 
 jkjfkg j
-fdfsaf
-dfdasfd
-dfdsfdas
-dffjfj 
-jdkjfkdjfdkj
