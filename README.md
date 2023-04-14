@@ -1,8 +1,9 @@
-Halo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px">
+Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px">
 
-Saya muhaemin dan akun ini adalah contoh dari hal-hal yang saya suka kerjakan.
-- 🔭 Saat ini saya sedang menyelesaikan tantangan #121,667DaysOfCoding
-- 🌱 Saat ini saya sedang mempelajari Komponen Web, dan pengembangan perangkat lunak 
-- 💬 Tanya saya tentang apa saja (sesuai alasan)
-- 📫 Cara menghubungi saya: [ismuhaimin1{at}gmail.com](mailto:ismuhaimin1@gmail.com)
-- 🎁 GitHub resmi saya: https://github.com/mhaemnn 
+I am a muhaemin and this account is an example of the things I love to do.
+- 🔭 I'm currently completing challenge #121,667DaysOfCoding
+- 🌱 I'm currently studying Web Components, and software development
+- 💬 Ask me about anything (within reason)
+- 📫 How to contact me: [ismuhaimin1{at}gmail.com](mailto:ismuhaimin1@gmail.com)
+- 🎁 My official GitHub: https://github.com/mhaemnn
+
