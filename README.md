@@ -13,3 +13,4 @@ Happy coding!
 ga jelas 
 kenapa bahasa inggris lebih keren dari pada bahasa indonesia 
 
+puing banget aku 
