@@ -17,3 +17,4 @@ kenapa bahasa inggris lebih keren dari pada bahasa indonesia
 kfjdjfdjfjdfd df 
 puing banget aku 
 benci sama hari ini 
+pusing hari ini 
