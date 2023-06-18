@@ -11,5 +11,5 @@ I am a muhaemin and this account is an example of the things I love to do.
 Happy coding!
 
 ga jelas 
-
+kenapa bahasa inggris lebih keren dari pada bahasa indonesia 
 
