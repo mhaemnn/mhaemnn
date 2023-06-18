@@ -18,3 +18,4 @@ kfjdjfdjfjdfd df
 puing banget aku 
 benci sama hari ini 
 pusing hari ini 
+ga menyenangkan banget 
