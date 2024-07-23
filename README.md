@@ -18,3 +18,5 @@ afakdf
   <body></body>
 </html>
 jfafjaj
+di mana yang ada itu ada 
+tau ga aku  tuh sekarang ga punya leptop loh gimana donk ya 
