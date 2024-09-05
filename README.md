@@ -14,4 +14,4 @@ I am a muhaemin and this account is an example of the things I love to do.
 kjas jf
 fdasfsk 
 ini adalah dunia
-curiga ga matang wkwk
+curiga ga matang wkwk semoga aja matang aku lapar dan ga ada lagi beras
