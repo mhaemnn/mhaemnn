@@ -6,6 +6,6 @@ I'm **muhaemin**, and this GitHub account is a showcase of the things I love to 
 - 🌱 Learning about **Web Components** and advancing my skills in **software development**
 - 💬 Feel free to reach out if you have any questions (within reason!)
 - 📫 Contact me: `muhaemin[at]gmail[dot]com`
-- 🎁 My main GitHub profile: [@mhaemnn](https://github.com/mhaemnn)
+- 🎁 My main GitHub profile: <a href="https://github.com/mhaemnn" style="text-decoration: none;">@mhaemnn</a>
   
 > I'm highly adaptable to new environments and technologies. I'm a **problem solver** who enjoys finding and fixing bugs. I see web development as a never-ending journey of learning and improvement.
