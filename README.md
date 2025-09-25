@@ -1,10 +1,13 @@
-Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px">
+Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px">
 
-I am a muhaemin and this account is an example of the things I love to do.
-- 🔭 I'm currently completing challenge #121,667DaysOfCoding
-- 🌱 I'm currently studying Web Components and software development
-- 💬 Ask me about anything (within reason)
-- 📫 How to contact me: [muhaemin{at}gmail.com](mailto:muhaemin1998@gmail.com)
-- 🎁 My official GitHub: https://github.com/mhaemnn
+I'm **Muhaemin**, and this GitHub account is a showcase of the things I love to build and explore.
 
-> I can adapt to new environments and new Technologies, I can provide solutions, I am a problem solver, I love finding bugs and fixing them, web developer development is a never-ending project
+- 🔭 Currently working on the challenge: **#121 - 667 Days of Coding**
+- 🌱 Learning about **Web Components** and advancing my skills in **software development**
+- 💬 Feel free to reach out if you have any questions (within reason!)
+- 📫 Contact me: `muhaemin[at]gmail[dot]com`
+- 🎁 My main GitHub profile: [@mhaemnn](https://github.com/mhaemnn)
+
+---
+
+> I'm highly adaptable to new environments and technologies. I'm a **problem solver** who enjoys finding and fixing bugs. I see web development as a never-ending journey of learning and improvement.
